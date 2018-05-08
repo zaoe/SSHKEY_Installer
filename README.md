@@ -4,7 +4,7 @@
 
 # 使用
 
-``` wget https://github.com/zaoe/SSHKEY_Installer/raw/master/key.sh --no-check-certificate&& bash key.sh zaoe ```
+``` wget https://github.com/zaoe/SSHKEY_Installer/raw/master/key.sh --no-check-certificate&& bash key.sh zaoe```
 
 # 注意
  务必前往 https://github.com/settings/keys 绑定公钥
